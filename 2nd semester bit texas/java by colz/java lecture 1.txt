@@ -1,0 +1,25 @@
+create new project:
+clean n build 
+then run
+
+in c void main() main program starts here;
+in java: System.out.println("hello world");display in console
+input:scanf() cin()
+java purely oop class n object:
+class: blueprint of object e.g making ghar before we do ghar ko naksa
+which is class;
+object: me make naksa we made as per naksa that is object.
+one class have multiple object.
+instance of the class.
+to take input:we cannot call function directly in java just like c.
+no header file in java;
+scanner class HAS in java has diff functon:nextint() nextstring() nextdouble()and so on
+ scanner is a class and it has methods above said;
+method use garna ko lagiee object(scanner class ko) create garna parxa...(ghar)
+classname objectname =new classname([parameter list])
+paraamet is what value you need in class
+parameter list= system.in =input
+click on bulb add import 
+package vanda muni import garniee 
+class first name capital.
+check odd/even

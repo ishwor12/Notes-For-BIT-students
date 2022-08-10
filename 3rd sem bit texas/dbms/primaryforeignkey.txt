@@ -1,0 +1,14 @@
+
+Sr.No	Primary Key	Foreign Key
+1	Used to maintain the unique identification of data in the table.	Used to maintain the relationship between two or more relational tables.
+2	Helps us to identify data in a database table.	Helps to identify the data in another table using the connection with the foreign key.
+3	A table can have only one Primary Key.	A table can have any number of Foreign Keys.
+4	The primary key is unique and Not Null.	A foreign key can contain duplicate values also.
+5	Primary key can’t take Null as a value.	A foreign key can take NULL entries also.
+6	Primary Key can’t be modified once entered.	A foreign key can be modified at any instance of time.
+7	We can have Primary keys for temporary tables as well.	We can’t have Foreign keys for the temporary tables.
+8	A Primary key can be defined on its own.	For defining a Foreign key, we need a parent table with a Primary Key.
+9	Primary key creates clustered indexes on the table.	Foreign key does not create indexes on the table neither clustered nor unclustered.
+
+
+https://data-flair.training/blogs/primary-and-foreign-key-in-sql/

@@ -1,0 +1,39 @@
+1. 	Cablng standard
+	i. straight cable
+	11. parallel cabling
+
+2.	Domain and Workgroup
+	
+3. 	IP addressing setting 
+	a. subnetting :
+		i. FLSM
+		ii.VLSM
+4.	Network troubleshooting commands
+	i. ping
+	ii.tracert/traceroute
+	iii.nslookup
+	iv.ARP table
+	v. netstat
+	vi. ipconfig options
+
+4.	Packet tracer surfing
+	i. switches basic commands
+
+1.	Switching
+	a.	VLAN creation
+	b.	TRUNK
+	c.	management IP configuration
+	d. 	SSH and Telnet
+	
+2.	Routing
+	a.	Router's basic commands
+	b.	static routing
+	c. 	dynamic routing
+		i. RIP
+		ii.ospf
+3. 	NAT
+	a. Static NAT
+	b. Dynamic NAT
+	c. PAT
+
+	

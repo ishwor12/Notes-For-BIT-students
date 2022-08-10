@@ -1,0 +1,47 @@
+
+
+
+create table newlaptop
+(
+id int primary key identity(1,1),
+brand varchar(50),
+price decimal(10,2)
+)
+select *from newlaptop
+
+insert into newlaptop(brand, price)
+values('Governmenti5', 433000)
+
+select  max(price) as largest_price from newlaptop where (price>200000)
+select count(brand) as number_of_brands from newlaptop
+
+select max(price) as maximum_dell_price_laptop from newlaptop 
+where brand = 'dell'
+
+select (price) as maximum_price_laptop from newlaptop where price>200000
+
+select (price) as price_laptop from newlaptop
+
+select count(brand) as laptop from newlaptop where price>200000
+
+select (brand) as total_laptops,price from newlaptop where price=200000
+
+select (brand) as brand_laptops,price from newlaptop where price>200000 
+
+
+
+--select the brand and total price of the brands of laptops only if the total price is more than 200,000.
+select brand ,sum(price) total
+from newlaptop
+where brand like 'a%'
+group by brand
+having  sum(price)>200000
+
+select brand, count(id)
+from newlaptop
+group by brand
+having count(id)>3
+order by count(id) desc
+
+
+drop table newlaptop

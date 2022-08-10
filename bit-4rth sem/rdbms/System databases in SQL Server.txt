@@ -1,0 +1,1 @@
+https://www.vembu.com/blog/system-databases-sql-server/#:~:text=SQL%20Server%20mainly%20contains%20four,is%20the%20most%20important%20database.&text=Master%20Database%20contains%20information%20about%20SQL%20server%20configuration.

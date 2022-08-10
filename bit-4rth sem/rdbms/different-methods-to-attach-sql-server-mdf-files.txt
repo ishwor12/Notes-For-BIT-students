@@ -1,0 +1,1 @@
+https://www.sqlshack.com/different-methods-to-attach-sql-server-mdf-files/

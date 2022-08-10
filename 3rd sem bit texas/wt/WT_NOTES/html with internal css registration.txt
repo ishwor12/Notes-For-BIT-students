@@ -1,0 +1,84 @@
+
+	https://www.codeandcourse.com/connect-register-form-to-mysql-with-php/
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+margin: 100px;
+text-align: center;
+align: center;
+
+}
+ 
+input[type=text],[type=password],[type=number]{
+width: 30%;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:2px solid skyblue;
+box-sizing: border-box;
+border-radius: 10px;
+}
+ 
+button{
+background-color:#4CAF50;
+width: 20%;
+padding: 9px 5px;
+margin:5px 0;
+cursor:pointer;
+border:none;
+color:#ffffff;
+margin-left: 80px;
+border-radius: 10px;
+}
+ 
+button:hover{
+opacity:0.4;
+background-color:red;
+}
+ 
+
+
+</style>
+
+</head>
+<body>
+
+<form name="regi" action="register.php" method="post">
+<h2>Registration Form</h2>
+ 
+<label for="r1" id="fn">Full Name :</label>
+<input type="text" name="fname" id="r1"><br/>
+ 
+
+ 
+<label  for="r3" id="un">Username :</label>
+<input type="text" name="uname" id="r3"><br/>
+ 
+<label  for="r4" id="pwd">Password :</label>
+<input type="password" name="pass" id="r4"><br/>
+ 
+<label  for="r5" id="em">Email :</label>
+<input type="text" name="email" id="r5"><br/>
+ 
+
+<label for="r8" id="gender">Gender:</label>
+ 
+ <input type="radio" name="gender" value="m" required>Male
+     <input type="radio" name="gender" value="f" required>Female
+     <br><BR>
+
+ 
+<button type="submit" value="Submit" id="button">Register</button>
+
+ 
+</form>
+
+</body>
+</html>
+/////
+register.php
+
+///

@@ -1,0 +1,7 @@
+like use when if we dont know the whole text
+where country equals to "nepal"
+
+
+reference materials:
+
+https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GTSQ_COMMANDS

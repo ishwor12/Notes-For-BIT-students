@@ -1,0 +1,37 @@
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+dfs////
+
+////
+https://www.javatpoint.com/breadth-first-search-algorithm
+bfs//
+
+
+////
+a=5b=6 infix to post//
+https://www.collegenote.net/pastpapers/2937/question/#gsc.tab=0
+
+
+// insertion sort vs selection sort///
+https://www.geeksforgeeks.org/difference-between-insertion-sort-and-selection-sort/
+
+////fibonacci using recursion///
+https://www.tutorialspoint.com/cplusplus-program-to-find-fibonacci-numbers-using-recursion
+
+
+// avl tree insert from 1-8 /
+
+http://www.btechsmartclass.com/data_structures/avl-trees.html
+
+///
+https://www.javatpoint.com/insertion-in-avl-tree
+////
+
+binary tree from inorder and postrder
+//
+https://www.techiedelight.com/construct-binary-tree-from-inorder-postorder-traversals/
+
+//
+binary tree from inorder and preorder
+//
+https://www.techiedelight.com/construct-binary-tree-from-inorder-preorder-traversal/
+///

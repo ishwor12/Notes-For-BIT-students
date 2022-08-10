@@ -1,0 +1,21 @@
+[29/07, 08:40] Saroj Ghimire
+    What is stack? What is different application of stack? Trace out Infix to postfix conversion algorithm with given Infix expression. A + (((B-C) * (D-E) + F)/G) $ (H-I) Evaluate the postfix expression acquired from above for the given values: A = 6, B = 2, C = 4, D = 3, E = 8, F = 2, G = 3, H = 5, I = 1.
+​[29/07, 08:47] Saroj Ghimire
+    In the deletion operation of max heap, the root is replaced by
+Next available value in the left sub-tree
+Next available value in the right sub-tree
+Any random value from the heap
+Last element of the last level
+Which of the following is also called FIFO system?
+Tree
+Stack 
+Queue
+Graph
+[22/07, 08:19] Saroj Ghimire
+    A + (((B-C) * (D-E) + F)/G) $ (H-I)))
+​[22/07, 08:19] Saroj Ghimire
+   
+ A = 6, B = 2, C = 4, D = 3, E = 8, F = 2, G = 3, H = 5, I = 1
+
+dijkestra algorithm easy:
+https://www.youtube.com/watch?v=4UMlxaAFGSA

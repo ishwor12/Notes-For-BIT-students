@@ -1,0 +1,8 @@
+relationship between b2b and b2c
+-human intervention (h2h) inteaction leads to business deals
+--a consumer is the one who holds a business.
+----b2c deals may leads to generate b2b delas sometime.
+--b2b may also hold a b2c platform.
+
+
+https://searchsecurity.techtarget.com/definition/digital-signature

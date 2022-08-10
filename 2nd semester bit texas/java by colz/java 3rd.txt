@@ -1,0 +1,5 @@
+inheritance>> proprty share >>parent to child
+extend keyword
+relationship to show between two class.
+
+contructor:

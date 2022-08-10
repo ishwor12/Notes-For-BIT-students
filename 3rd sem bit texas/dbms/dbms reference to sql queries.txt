@@ -1,0 +1,7 @@
+dbms search references:
+foreign primary key
+https://www.w3schools.com/sql/sql_foreignkey.asp
+sql sorting
+https://www.w3resource.com/sql-exercises/sorting-and-filtering-hr/sql-sorting-and-filtering-hr-exercise-3.php
+ to count total
+https://www.w3resource.com/sql-exercises/sql-aggregate-function-exercise-1.php
